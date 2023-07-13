@@ -1,0 +1,47 @@
+img{
+    width: 150px;
+    height: 120px;
+    padding: 5px;
+}
+h2{
+    color:aquamarine;
+    font-weight: bold;
+    font-size: 150%;
+    margin-left: 5px;
+
+}
+p{
+    font-size: 120%;
+    color: darkblue;
+    margin-left: 5px;
+
+}
+u1{
+    color: brown;
+
+}
+h3{
+    margin-left: 5px;
+
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    margin-left: 5px;
+}
+caption{
+    font-size: 100%;
+    background-color: blueviolet;
+    padding: 20px;
+
+}
+th{
+    background-color: lightgray;
+}
+.myDiv{
+    font-size: 100%;
+    color: greenyellow;
+    margin-left: 5px;
+}
